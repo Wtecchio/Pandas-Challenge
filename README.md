@@ -8,12 +8,12 @@ data manipulation techniques with the use of DataFrame from Pandas <br />
 finding meaningful conclusions from the given data<br />
 <br />
 
-  First opinon of settuping up the code:
+  **First opinon of settuping up the code:**
   
   This project was a good excercise to be able to create and manipulate several different Data Frames and being able to order the data into several different ways to make interesting conlcusions. This also gave an initial point in which to use Jupyter Notebook and see all the benefits of the library. This project left me confident with being able to parce through Pandas. 
   
   
-  Conclusions from the Dataset:
+  **Conclusions from the Dataset:**
 
   Throughout the entire data set, schools with higher per capita budgets (645-675 per student) performend much worse than their lower budget (<585 per student) counterparts.
 
